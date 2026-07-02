@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Hussnain 👋
 
-**Full-Stack Software Engineer** specializing in scalable SaaS platforms, enterprise software, and real-time web applications using Next.js, NestJS, and TypeScript.
+**Full-Stack Software Engineer** specializing in scalable SaaS platforms, enterprise software, and real-time systems using Next.js, NestJS, TypeScript, and modern cloud technologies.
 
 > Building software that solves real-world business problems through scalable architecture, clean code, and modern web technologies.
 
@@ -11,7 +11,7 @@
 - 💼 Full-Stack Software Engineer
 - 🚀 Building **Websterwork**
 - 🌱 Currently developing a scalable **Learning Management System (LMS)**
-- 🏗️ Experienced in SaaS platforms, industrial monitoring systems, solar analytics, and enterprise software
+- 🏗️ Built production-grade SaaS platforms, industrial monitoring systems, solar analytics platforms, and enterprise software solutions.
 - 📍 Lahore, Pakistan
 
 ---
@@ -31,7 +31,7 @@ NestJS • Node.js • Express.js • REST APIs
 MongoDB • PostgreSQL • Redis
 
 ### Cloud & DevOps
-Docker • AWS EC2 • AWS S3 • Cloudflare • Git • GitHub • Postman
+Docker • AWS EC2 • AWS S3 • Cloudflare • Git • GitHub
 
 ### Software Architecture & Technologies
 Multi-Tenant SaaS • Microservices • JWT Authentication • OAuth 2.0 • RBAC • Socket.IO • Kafka • CI/CD
@@ -58,7 +58,7 @@ My work primarily focuses on designing scalable architectures, building reusable
 - 🌐 Websterwork Business Website
 - 🎓 Multi-Tenant Learning Management System (LMS)
 - 📈 Improving System Design & Software Architecture Skills
-- 🤖 AI Integrations for Web Applications
+- 🤖 Integrating AI into Business Applications
 
 ---
 
@@ -82,4 +82,4 @@ My work primarily focuses on designing scalable architectures, building reusable
 
 ---
 
-⭐ *I enjoy building scalable software that transforms complex business requirements into reliable, production-ready solutions.*
+ ⭐ * Building scalable software that transforms complex business requirements into reliable, production-ready solutions.*
